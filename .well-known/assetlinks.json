@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wedream.crucio",
+      "sha256_cert_fingerprints": [
+        "7B:4F:9F:D4:E2:6E:E0:98:B2:B7:73:AE:67:C5:75:FF:F2:9E:91:A8:69:3A:17:3B:06:80:44:5A:9F:F0:C4:29"
+      ]
+    }
+  }
+]
